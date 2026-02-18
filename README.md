@@ -1,7 +1,8 @@
 # Dise-o-l-gico-en-bases-de-datos
 
 Juan Diego Londoño Ramirez  
-Bases de Datos Grupo 5  
+Bases de Datos  
+Grupo 5  
 
 Resumen Diseño lógico de bases de datos.  
 El diseño lógico de una base de datos consiste en pasar lo que ya se había planteado en el diagrama entidad-relación a tablas del modelo relacional. Básicamente, cada entidad se convierte en una tabla y sus atributos pasan a ser columnas, incluyendo su clave primaria.
