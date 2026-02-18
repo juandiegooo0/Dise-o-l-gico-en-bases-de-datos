@@ -1,6 +1,6 @@
 # Dise-o-l-gico-en-bases-de-datos
 
-Juan Diego Londoño Ramirez
+Juan Diego Londoño Ramirez  
 Bases de Datos Grupo 5  
 
 Resumen Diseño lógico de bases de datos.  
